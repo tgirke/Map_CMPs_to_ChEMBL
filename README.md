@@ -1,4 +1,4 @@
-# Map_CMPs_to_ChEMBL
+# Mapping of Selleck and LATCA Compounds to ChEMBL
 
 ## Selleck
 1. Map CAS IDs to DrugBank
